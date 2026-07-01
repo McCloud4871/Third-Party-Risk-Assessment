@@ -77,7 +77,7 @@ The assessment was performed using a structured Third-Party Risk Assessment (TPR
 
 **Screenshot 1 – Completed TPRA Questionnaire**
 
-*Insert image here*
+<img width="940" height="460" alt="image" src="https://github.com/user-attachments/assets/06c241f9-8a35-42d1-a872-e2a2d63f4d7e" />
 
 ---
 
@@ -98,7 +98,7 @@ The following risk heat map provides a visual summary of the assessment results.
 
 **Screenshot 2 – Vendor Risk Heat Map**
 
-*Insert image here*
+<img width="940" height="595" alt="image" src="https://github.com/user-attachments/assets/bbcb3909-6fd1-4f8c-a7d9-10d2e33b859c" />
 
 ---
 
@@ -106,7 +106,7 @@ The following risk heat map provides a visual summary of the assessment results.
 
 **Screenshot 3 – Risk Register**
 
-*Insert image here*
+<img width="940" height="231" alt="image" src="https://github.com/user-attachments/assets/5d4ea36b-3cf0-42d6-924b-74a10ddc6e2f" />
 
 ---
 
@@ -146,4 +146,4 @@ The Third-Party Risk Assessment found that CloudHR Solutions has implemented the
 
 # Supporting Documents
 
-- **TPRM-Questionnaire.xlsx** – Completed Third-Party Risk Assessment questionnaire.
+- **** – Completed Third-Party Risk Assessment questionnaire.
