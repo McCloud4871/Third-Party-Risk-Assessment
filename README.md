@@ -77,7 +77,7 @@ The assessment was performed using a structured Third-Party Risk Assessment (TPR
 
 **Screenshot 1 – Completed TPRA Questionnaire**
 
-<img width="940" height="460" alt="image" src="https://github.com/user-attachments/assets/06c241f9-8a35-42d1-a872-e2a2d63f4d7e" />
+<img width="1448" height="727" alt="image" src="https://github.com/user-attachments/assets/b5782b20-efbb-485d-b80f-f995218a1f18" />
 
 ---
 
