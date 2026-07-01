@@ -98,7 +98,7 @@ The following risk heat map provides a visual summary of the assessment results.
 
 **Screenshot 2 – Vendor Risk Heat Map**
 
-<img width="940" height="595" alt="image" src="https://github.com/user-attachments/assets/bbcb3909-6fd1-4f8c-a7d9-10d2e33b859c" />
+<img width="2678" height="1695" alt="Picture1" src="https://github.com/user-attachments/assets/4ad469a8-5eb8-4379-a63c-a5ff03bdf8e3" />
 
 ---
 
