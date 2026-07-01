@@ -142,8 +142,4 @@ The following recommendations are prioritised according to the level of risk ide
 
 The Third-Party Risk Assessment found that CloudHR Solutions has implemented the majority of expected security controls and demonstrates an overall mature security posture. However, several medium and high-risk findings require remediation to further reduce operational and cybersecurity risk. Based on the assessment, CloudHR Solutions is considered an acceptable supplier for Rex Medical, provided the identified remediation activities are completed and monitored through a formal risk treatment plan.
 
----
 
-# Supporting Documents
-
-- **** – Completed Third-Party Risk Assessment questionnaire.
