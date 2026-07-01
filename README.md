@@ -106,7 +106,7 @@ The following risk heat map provides a visual summary of the assessment results.
 
 **Screenshot 3 – Risk Register**
 
-<img width="940" height="231" alt="image" src="https://github.com/user-attachments/assets/5d4ea36b-3cf0-42d6-924b-74a10ddc6e2f" />
+<img width="1858" height="463" alt="image" src="https://github.com/user-attachments/assets/982e0a10-af29-43a7-9068-086ca534b7d7" />
 
 ---
 
